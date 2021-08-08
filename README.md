@@ -1,5 +1,5 @@
 # hello-world
-первый
+First
 
 Hi, Gitgub!
 
